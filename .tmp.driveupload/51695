@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="784c2995-b6ff-4727-893b-0a711adf3b20" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../OOP/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP/.idea/OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP/01/1.0.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YouTube/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YouTube/.idea/YouTube.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YouTube/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YouTube/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YouTube/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YouTube/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Programming-I.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Programming-I.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-recipe" beforeDir="false" afterPath="$PROJECT_DIR$/02-recipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-recipe.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/02-recipe.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-ingredients.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/03-ingredients.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mohdrashadi-pro&quot;
+  }
+}</component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="a9e9d190-0231-4ed3-b75e-7891fa2a5f2d" />
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:mohdrashadi-pro/My_Cpp.git&quot;,
+    &quot;accountId&quot;: &quot;a9e9d190-0231-4ed3-b75e-7891fa2a5f2d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="325aUFQk35CjqUivLaVXxdNXpBC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.02-recipe.cpp.executor": "Run",
+    "C/C++ File.03-ingredients.cpp.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="C/C++ File.03-ingredients.cpp">
+    <configuration name="02-recipe.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="readme.md" TARGET_NAME="02-recipe.cpp" CONFIG_NAME="02-recipe.cpp">
+      <option name="sourceFile" value="02-recipe.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="03-ingredients.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="readme.md" TARGET_NAME="03-ingredients.cpp" CONFIG_NAME="03-ingredients.cpp">
+      <option name="sourceFile" value="03-ingredients.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.03-ingredients.cpp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="784c2995-b6ff-4727-893b-0a711adf3b20" name="Changes" comment="" />
+      <created>1756019464518</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756019464518</updated>
+      <workItem from="1756019467033" duration="745000" />
+      <workItem from="1756712902326" duration="238000" />
+      <workItem from="1756713215418" duration="2000" />
+      <workItem from="1756713225457" duration="23000" />
+      <workItem from="1756713260313" duration="78000" />
+      <workItem from="1756713349796" duration="6000" />
+      <workItem from="1756713365888" duration="8000" />
+      <workItem from="1756713385350" duration="3000" />
+      <workItem from="1756713490136" duration="68000" />
+      <workItem from="1756976532589" duration="283000" />
+      <workItem from="1756976829811" duration="457000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

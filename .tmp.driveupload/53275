@@ -1,0 +1,49 @@
+-- Show all databases
+SHOW DATABASES;
+
+-- Switch to 'mydb' database
+USE mydb;
+
+-- Create 'employees' table
+CREATE TABLE employees (
+    employee_id INT,             -- corrected column name spelling
+    first_name VARCHAR(50),      -- corrected VARCHAR casing
+    last_name VARCHAR(50),
+    hourly_pay DECIMAL(5, 2),   -- corrected column name spelling
+    hire_date DATE               -- corrected column name spelling
+);
+
+-- Select all records from the table
+SELECT * FROM employees;
+
+-- Rename table 'workers' to 'employees' (only if 'workers' exists)
+-- RENAME TABLE workers TO employees;
+
+-- Drop table 'employees' if needed (be careful: deletes data)
+-- DROP TABLE employees;
+
+-- Add a new column 'phone_number'
+ALTER TABLE employees 
+ADD COLUMN phone_number VARCHAR(15);
+
+-- Rename the column 'phone_number' to 'email'
+ALTER TABLE employees
+CHANGE COLUMN phone_number email VARCHAR(100);
+
+-- Modify the column 'email' (already done in previous step, optional)
+ALTER TABLE employees 
+MODIFY COLUMN email VARCHAR(100);
+
+-- Move 'email' column to be the first column
+ALTER TABLE employees 
+MODIFY COLUMN email VARCHAR(100) FIRST;
+
+-- Move 'email' column after 'last_name'
+ALTER TABLE employees
+MODIFY COLUMN email VARCHAR(100) AFTER last_name;
+
+-- Show final table structure and contents
+SELECT * FROM employees;
+
+ALTER TABLE employess; 
+DROP COLUMNs email;

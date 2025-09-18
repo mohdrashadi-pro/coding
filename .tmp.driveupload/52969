@@ -1,0 +1,20 @@
+# ninja log v6
+6	85	1758189321856045444	CMakeFiles/1_Functions.dir/04.Exercise.cpp.o	e4bfc3f73022cc11
+8	90	1758189321857678474	CMakeFiles/1_Functions.dir/05.Exercise.cpp.o	73008b9f79483043
+4	96	1758189321854324413	CMakeFiles/1_Functions.dir/03.Exercise.cpp.o	9736407dcb0d28f5
+10	97	1758189321859888710	CMakeFiles/1_Functions.dir/07.Exercise.cpp.o	10e31d859475bd01
+9	99	1758189321859142965	CMakeFiles/1_Functions.dir/06.Exercise.cpp.o	4418c5b5b14a05f1
+86	197	1758189321935719953	CMakeFiles/1_Functions.dir/08.Exercise.cpp.o	7cecd414d4eea9d
+90	205	1758189321939715218	CMakeFiles/1_Functions.dir/09.Exercise.cpp.o	a98b189a90e10dd8
+2	406	1758189330484853879	CMakeFiles/1_Functions.dir/02.Exercise.cpp.o	deeae7415d14b42b
+408	468	1758189330891299582	1_Functions	ef0073bf00fb77f5
+6	616	1758189363312570589	CMakeFiles/1_Functions.dir/02.Exercise.cpp.o	deeae7415d14b42b
+616	764	1758189363922729640	1_Functions	ef0073bf00fb77f5
+5	444	1758189377153069019	CMakeFiles/1_Functions.dir/02.Exercise.cpp.o	deeae7415d14b42b
+445	497	1758189377592265587	1_Functions	ef0073bf00fb77f5
+5	449	1758189398897395058	CMakeFiles/1_Functions.dir/02.Exercise.cpp.o	deeae7415d14b42b
+449	503	1758189399341597300	1_Functions	ef0073bf00fb77f5
+4	442	1758189408183969267	CMakeFiles/1_Functions.dir/02.Exercise.cpp.o	deeae7415d14b42b
+443	495	1758189408621946302	1_Functions	ef0073bf00fb77f5
+4	451	1758189422784858124	CMakeFiles/1_Functions.dir/02.Exercise.cpp.o	deeae7415d14b42b
+451	504	1758189423231032645	1_Functions	ef0073bf00fb77f5
