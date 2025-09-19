@@ -1,9 +1,0 @@
-DROP DATABASE IF EXISTS mydb;  -- safely remove it if it exists
-CREATE DATABASE mydb;          -- create it
-USE mydb;                       -- switch to it
-SHOW DATABASES;                 -- check that it's there
--- Set the database 'mydb' to read-only mode
-ALTER DATABASE mydb READ ONLY = 1;
-
--- Set the database 'mydb' back to read-write mode
-ALTER DATABASE mydb READ ONLY = 0;
