@@ -23,4 +23,5 @@ add_executable(Coding
         17.Example.cpp
         18.Example.cpp
         19.Example.cpp
-        20.Example.cpp)
+        20.Example.cpp
+        ../Exercises/01.Exercise.cpp)
