@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6bebc58-285d-4089-a6e3-11f74f5c4883" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.tmp.driveupload/68887" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.tmp.driveupload/68893" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.tmp.driveupload/68895" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.tmp.driveupload/68897" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.tmp.driveupload/68899" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.tmp.driveupload/68901" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.tmp.driveupload/68903" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.tmp.driveupload/68905" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.tmp.driveupload/68907" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.tmp.driveupload/68909" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.tmp.driveupload/68911" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.tmp.driveupload/68913" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.tmp.driveupload/68915" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.tmp.driveupload/68917" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.tmp.driveupload/68919" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.tmp.driveupload/68921" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.tmp.driveupload/68923" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.tmp.driveupload/68925" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.tmp.driveupload/68927" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.tmp.driveupload/68929" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.tmp.driveupload/68931" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.tmp.driveupload/68933" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.tmp.driveupload/68935" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.tmp.driveupload/68937" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.tmp.driveupload/68939" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.tmp.driveupload/68941" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.tmp.driveupload/68943" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C++/Planning/05.level-OOP/Exercises/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../C++/Planning/05.level-OOP/Exercises/.idea/material_theme_project_new.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mohdrashadi-pro&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mohdrashadi-pro/coding.git&quot;,
+    &quot;accountId&quot;: &quot;a9e9d190-0231-4ed3-b75e-7891fa2a5f2d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="33jilISJN5lNKXfujtkW983kqYs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HelloWorld.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "terminal",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="Bro Code" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.26830.84" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6bebc58-285d-4089-a6e3-11f74f5c4883" name="Changes" comment="" />
+      <created>1756019464518</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756019464518</updated>
+      <workItem from="1756019467033" duration="745000" />
+      <workItem from="1759836591435" duration="439000" />
+      <workItem from="1759837032652" duration="2000" />
+      <workItem from="1759837050820" duration="13000" />
+      <workItem from="1759837171909" duration="105000" />
+      <workItem from="1759838021667" duration="17000" />
+      <workItem from="1759838360210" duration="509000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
