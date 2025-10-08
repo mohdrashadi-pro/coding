@@ -16,7 +16,7 @@ Variable = a a reusable  a container for a value
              int          string
              double       array
              char         object
-             boolean 
+             boolean
 
 
              * 2 steps to creating a variable
@@ -41,6 +41,8 @@ Variable = a a reusable  a container for a value
         char currency ='$';
 
         boolean isStudent = true;
+
+String name ="Hello ";
 
 
         System.out.print(isStudent);
